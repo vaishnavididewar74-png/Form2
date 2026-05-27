@@ -1,0 +1,1 @@
+This project is a one-page job application form that you can open on a website. It was built using basic web design languages (HTML5 to create the text boxes and buttons, and CSS to style how they look). It is designed to look best on a regular computer screen or laptop, and it works as a great starting template if you want to collect information from people.
